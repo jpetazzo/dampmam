@@ -1,11 +1,9 @@
-<html><body>
+<html>
+<body>
+<ul>
+<li><a href="exercise-1/">Exercise 1</a></li>
+<li><a href="exercise-2/view-form.php">Exercise 2</a></li>
+</ul>
+</body>
+</html>
 
-<h1><p style="color:#800080">Sparkles are awesome<p/><h1>
-
-This page is hosted by your dampmam container! How awesome is that!
-
-<?
-echo "This is some PHP code! 2+2=".(2+0);
-?>
-
-</html></body>
