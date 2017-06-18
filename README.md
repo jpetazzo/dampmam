@@ -20,3 +20,10 @@ Docker-Apache-MySQL-PHP but without Apache and MySQL
 3. Fill in your name and click on the button
 4. See the result
 5. Edit the files in `www/exercise-2`
+
+## Exercise 3
+
+1. Go to "exercise 3" in the exercise list
+2. Load the page a few times
+3. Come up with a list of ideas of things to improve
+
